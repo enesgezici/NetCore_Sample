@@ -8,6 +8,7 @@ namespace NetCore_ConsoleApp_Sample
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Two");
+            Console.WriteLine("Hello Tw2o");
         }
     }
 }
